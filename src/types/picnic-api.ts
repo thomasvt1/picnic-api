@@ -7,7 +7,7 @@ export type ApiConfig = {
 
 export type CountryCode = "NL" | "DE";
 
-export type ChannelType2FA = "SMS" | "EMAIL";
+export type ChannelType2FA = "SMS" | "EMAIL" | string;
 
 export type ImageSize = "tiny" | "small" | "medium" | "large" | "extra-large";
 
@@ -24,7 +24,7 @@ export type LoginInput = {
 };
 
 export type Generate2FACodeInput = {
-  channel: ChannelType2FA | string;
+  channel: ChannelType2FA;
 };
 
 export type Verify2FACodeInput = {

@@ -1,6 +1,6 @@
 {
   "name": "picnic-api-fix",
-  "version": "3.2.2",
+  "version": "3.2.3",
   "description": "Unofficial wrapper for the API of the online supermarket Picnic",
   "keywords": [
     "picnic",
