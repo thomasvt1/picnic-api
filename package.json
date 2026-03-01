@@ -9,9 +9,9 @@
     "online",
     "supermarket"
   ],
-  "homepage": "https://github.com/MRVDH/picnic-api",
+  "homepage": "https://github.com/thomasvt1/picnic-api",
   "bugs": {
-    "url": "https://github.com/MRVDH/picnic-api/issues"
+    "url": "https://github.com/thomasvt1/picnic-api/issues"
   },
   "license": "MIT",
   "author": "Maarten van den Hoven <info@maartenvandenhoven.com> (https://maartenvandenhoven.com)",
@@ -23,7 +23,7 @@
     "build": "tsc",
     "test": "jest"
   },
-  "repository": "github:MRVDH/picnic-api",
+  "repository": "github:thomasvt1/picnic-api",
   "dependencies": {
     "jsonpath-plus": "^10.3.0"
   },
